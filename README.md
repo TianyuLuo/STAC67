@@ -1,8 +1,10 @@
 # STAC67
 
 =========
-In this assignnment, we will use R software to solve statistical questions and intepret the results.
+In this assignnment, we will use R software to solve statistical questions and interpret the results.
 
-Currently working on this. Codes will be uploaded later.
+Currently working on this. Assignnment description provided and code will be provided later.
 
-Assignnment worksheet provided.
+Exercise is uploaded.
+
+
